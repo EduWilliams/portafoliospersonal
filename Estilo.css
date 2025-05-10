@@ -116,7 +116,7 @@ button{
 
 
 .slider{
-    width:75 vw ;
+    width: 1350px;
     height: auto;
     margin: ato;
     overflow: hidden;
@@ -131,7 +131,7 @@ button{
 }
 .slider .slide{
 
-    width: 100px;
+    width: 50px;
 }
 .slider .slide img{
 
@@ -265,6 +265,7 @@ width: 400px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
  }
  #capacidad{
+    width: 600px;
     margin-left: 18em;
     --animate-duration:20s;
     margin-top: -0.5em;

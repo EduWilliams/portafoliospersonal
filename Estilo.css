@@ -394,6 +394,9 @@ width: 400px;
     height: 100em;
     margin: 10em;
 }
+#quiero{
+    margin-top: 0em;
+}
        .col-5{
 
         margin-top: 10em;
@@ -403,20 +406,20 @@ width: 400px;
        }
        .blandas{
         margin-top: 100em;
-        width: 200em;
+        width: 50em;
        }
        .footer{
-        margin-top: 100em;
+        margin-top: 50em;
         width: 200em;
         height: 20em;
        }
 
-       #nombre{ margin-left: 0em;}
+       #nombre1{ margin-left: 0em;}
        #margen{
-        margin-left: 0em;
+        margin-left: 1em;
        }
 
-       #email{margin-left: 0em;}
+       #email{margin-left: 1em;}
 
 
     }

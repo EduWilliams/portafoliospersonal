@@ -430,6 +430,14 @@ width: 400px;
         width: 100em;
         height: 20em;
        }
+       .formulario{
+        margin-left: 0.2em;
+
+        height: 100em;
+       }
+       label{
+        margin-left: 0em;
+       }
 
        #nombre1{ }
        #margen{

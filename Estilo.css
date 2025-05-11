@@ -338,21 +338,21 @@ width: 400px;
         }
         #fotopersonal{
 
-            width: 130em;
+            width: 133em;
             height: 120em;
             border-radius: 20px;
             margin-left: -2em;
         }
        p{
-
-        width: 50em;
+            margin-top: -5em;
+        width: 30em;
         font-size: 120px;
         margin-left: 0px;
         border: #dddddd solid 2px;
        }
 
-       .conteiner-slider{
-       margin-left: 20em;
+       .container-slider{
+       margin-left: 7em;
 
        }
        .card{
@@ -363,12 +363,12 @@ width: 400px;
        .slider{
 
         width: 400em;
-        margin-top: 20em;
+        margin-top: 30em;
        }
        .slide{
 
-        width: 40em;
-        height: 20em;
+        width: 50em;
+        height: 30em;
        }
        .col-5{
 
@@ -384,7 +384,12 @@ width: 400px;
         margin-top: 100em;
        }
 
+       #nombre{ margin-left: 0em;}
+       #margen{
+        margin-left: 0em;
+       }
 
+       #email{margin-left: 0em;}
 
     }
     

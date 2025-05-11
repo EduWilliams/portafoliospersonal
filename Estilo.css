@@ -332,34 +332,34 @@ width: 400px;
         h1{
             width: 20em;
                 font-size: 80px;
-                margin-left: 3em;
+                margin-left: 0.5em;
                 margin-top: 3em;
 
         }
         #fotopersonal{
 
-            width: 60em;
-            height: 60em;
+            width: 120em;
+            height: 120em;
             border-radius: 10px;
         }
        p{
 
-        width: 100em;
-        font-size: 80px;
+        width: 1000em;
+        font-size: 120px;
        }
 
-       .conteiner-slider123{
+       .conteiner-slider{
        margin-left: 20em;
 
        }
        .card{
 
-        width: 50em;
-        height: 30em;
+        width: 100em;
+        height: 60em;
        }
        .slider{
 
-        width: 200em;
+        width: 400em;
        }
 
 

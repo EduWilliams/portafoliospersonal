@@ -422,12 +422,12 @@ width: 400px;
         border-radius: 5px;
        }
        .blandas{
-        margin-top: 800em;
-        width: 50em;
+        margin-top: 100em;
+        width: 30em;
        }
        .footer{
         margin-top: 50em;
-        width: 100em;
+        width: 120em;
         height: 20em;
        }
        .formulario{
@@ -446,6 +446,9 @@ width: 400px;
 
        #email{}
 
-
+      #luna{
+        height: 20em;
+        width: 20em;
+      }
     }
     

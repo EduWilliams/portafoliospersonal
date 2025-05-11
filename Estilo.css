@@ -331,10 +331,16 @@ width: 400px;
 
         h1{
             width: 20em;
-                font-size: 30px;
-                margin-left: 10em;
+                font-size: 50px;
+                margin-left: 8em;
                 margin-top: 3em;
 
+        }
+        #fotopersonal{
+
+            width: 10em;
+            height: 10em;
+            border-radius: 10px;
         }
        
     }

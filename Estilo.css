@@ -392,20 +392,21 @@ width: 400px;
         
        }
        .blandas{
-        margin-top: 150em;
+        margin-top: 100em;
+        width: 200em;
        }
        .footer{
-        margin-top: 200em;
+        margin-top: 100em;
         width: 200em;
-        height: 50em;
+        height: 20em;
        }
 
-       #nombre{ margin-left: -3em;}
+       #nombre{ margin-left: 0em;}
        #margen{
-        margin-left: -3em;
+        margin-left: 0em;
        }
 
-       #email{margin-left: -3em;}
+       #email{margin-left: 0em;}
 
 
     }

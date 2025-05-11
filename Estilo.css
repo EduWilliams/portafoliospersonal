@@ -405,6 +405,11 @@ width: 400px;
         width: 100%;
         
        }
+
+       button{
+
+        height: 10em;
+       }
        .blandas{
         margin-top: 100em;
         width: 50em;

@@ -379,7 +379,7 @@ width: 400px;
        }
        .slider{
 
-        width: 200em;
+        width: 150em;
         margin-top: 60em;
        }
        .slide{
@@ -423,6 +423,7 @@ width: 400px;
        }
        #acceder{
         font-size: 30px;
+        margin-left: 0em;
        }
        .blandas{
         margin-top: 100em;
@@ -436,7 +437,7 @@ width: 400px;
        .formulario{
         margin-left: 0.2em;
 
-        height: 100em;
+        height: 200em;
        }
        label{
         margin-left: 0em;

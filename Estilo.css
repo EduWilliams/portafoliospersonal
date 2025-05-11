@@ -356,6 +356,8 @@ width: 400px;
 
        .container-slider{
        margin-left: 10em;
+       justify-content: center;
+       width: 200em;
 
        }
        .card{

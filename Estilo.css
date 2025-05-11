@@ -344,15 +344,16 @@ width: 400px;
             margin-left: -2em;
         }
        p{
-            margin-top: -5em;
-        width: 30em;
+            
+        width: 20em;
         font-size: 120px;
         margin-left: 0px;
         border: #dddddd solid 2px;
+        border-radius: 20px;
        }
 
        .container-slider{
-       margin-left: 7em;
+       margin-left: 10em;
 
        }
        .card{
@@ -363,12 +364,12 @@ width: 400px;
        .slider{
 
         width: 400em;
-        margin-top: 30em;
+        margin-top: 40em;
        }
        .slide{
 
-        width: 50em;
-        height: 30em;
+        width: 1000em;
+        height: 80em;
        }
        .col-5{
 

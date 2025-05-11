@@ -338,15 +338,17 @@ width: 400px;
         }
         #fotopersonal{
 
-            width: 120em;
+            width: 130em;
             height: 120em;
             border-radius: 20px;
             margin-left: -2em;
         }
        p{
 
-        width: 100em;
+        width: 50em;
         font-size: 120px;
+        margin-left: 0px;
+        border: #dddddd solid 2px;
        }
 
        .conteiner-slider{
@@ -355,18 +357,28 @@ width: 400px;
        }
        .card{
 
-        width: 800em;
+        width: 80em;
         height: 60em;
        }
        .slider{
 
         width: 400em;
-        margin-top: 7em;
+        margin-top: 20em;
        }
        .slide{
 
         width: 40em;
         height: 20em;
+       }
+       .col-5{
+
+        margin-top: 10em;
+        margin-left: 0em;
+        width: 100%;
+        
+       }
+       .blandas{
+        margin-top: 50em;
        }
 
 

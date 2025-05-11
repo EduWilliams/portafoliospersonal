@@ -338,7 +338,7 @@ width: 400px;
         }
         #fotopersonal{
 
-            width: 136em;
+            width: 137em;
             height: 120em;
             border-radius: 20px;
             margin-left: -2em;
@@ -357,7 +357,7 @@ width: 400px;
       
        .container-slider{
        justify-content: center;
-       width: 200em;
+       width: 100em;
        margin-left: 10em;
 
        }
@@ -366,7 +366,7 @@ width: 400px;
        }
        #misproyectos{
         font-size: 120px;
-        margin-left: 2em;
+        margin-left: -2em;
         
        }
        .card{
@@ -392,11 +392,17 @@ width: 400px;
 #t{
 
     width: 10em;
-    height: 10em;
-    margin: 10em;
+    height: 20em;
+    margin: 5em;
+}
+#css{
+     width: 10em;
+    height: 20em;
+    margin: 5em;
 }
 #quiero{
     margin-top: 0em;
+    
 }
        .col-5{
 
@@ -409,23 +415,24 @@ width: 400px;
        button{
 
         height: 10em;
+        font-size: 100px;
        }
        .blandas{
-        margin-top: 100em;
+        margin-top: 800em;
         width: 50em;
        }
        .footer{
         margin-top: 50em;
-        width: 200em;
+        width: 100em;
         height: 20em;
        }
 
-       #nombre1{ margin-left: 0em;}
+       #nombre1{ }
        #margen{
-        margin-left: 1em;
+        
        }
 
-       #email{margin-left: 1em;}
+       #email{}
 
 
     }

@@ -338,18 +338,18 @@ width: 400px;
         }
         #fotopersonal{
 
-            width: 133em;
+            width: 135em;
             height: 120em;
             border-radius: 20px;
             margin-left: -2em;
         }
        p{
-        margin-top: -1em;
+        margin-top: 0em;
+        margin-left: 0.5em;
         margin: 1em;
         padding: 0.5em;
-        width: 15em;
-        font-size: 110px;
-        margin-left: 0px;
+        width: 13em;
+        font-size: 100px;
         border: #dddddd solid 2px;
         border-radius: 20px;
        }
@@ -359,6 +359,10 @@ width: 400px;
        justify-content: center;
        width: 200em;
 
+       }
+       #misproyectos{
+        font-size: 30px;
+        
        }
        .card{
 

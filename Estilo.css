@@ -338,7 +338,7 @@ width: 400px;
         }
         #fotopersonal{
 
-            width: 135em;
+            width: 136em;
             height: 120em;
             border-radius: 20px;
             margin-left: -2em;
@@ -348,17 +348,17 @@ width: 400px;
         margin-left: 0.5em;
         margin: 1em;
         padding: 0.5em;
-        width: 14em;
+        width: 15em;
         font-size: 100px;
         border: #dddddd solid 2px;
         border-radius: 20px;
        }
 
-
+      
        .container-slider{
-       
        justify-content: center;
        width: 200em;
+       margin-left: 10em;
 
        }
        .container{
@@ -366,6 +366,7 @@ width: 400px;
        }
        #misproyectos{
         font-size: 120px;
+        margin-left: 2em;
         
        }
        .card{

@@ -332,7 +332,7 @@ width: 400px;
         h1{
             width: 20em;
                 font-size: 80px;
-                margin-left: 0.5em;
+                
                 margin-top: 3em;
 
         }
@@ -340,11 +340,12 @@ width: 400px;
 
             width: 120em;
             height: 120em;
-            border-radius: 10px;
+            border-radius: 20px;
+            margin-left: -2em;
         }
        p{
 
-        width: 1000em;
+        width: 100em;
         font-size: 120px;
        }
 
@@ -354,12 +355,18 @@ width: 400px;
        }
        .card{
 
-        width: 100em;
+        width: 800em;
         height: 60em;
        }
        .slider{
 
         width: 400em;
+        margin-top: 7em;
+       }
+       .slide{
+
+        width: 40em;
+        height: 20em;
        }
 
 

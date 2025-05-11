@@ -344,9 +344,9 @@ width: 400px;
             margin-left: -2em;
         }
        p{
-            
-        width: 20em;
-        font-size: 120px;
+        margin-top: -3em;
+        width: 15em;
+        font-size: 110px;
         margin-left: 0px;
         border: #dddddd solid 2px;
         border-radius: 20px;
@@ -364,13 +364,18 @@ width: 400px;
        .slider{
 
         width: 400em;
-        margin-top: 40em;
+        margin-top: 60em;
        }
        .slide{
 
-        width: 1000em;
+        width: 100em;
         height: 80em;
        }
+
+       .slider .slide{
+
+    width: 80em;
+}
        .col-5{
 
         margin-top: 10em;

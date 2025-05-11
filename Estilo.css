@@ -333,7 +333,7 @@ width: 400px;
             width: 20em;
                 font-size: 80px;
                 
-                margin-top: 3em;
+                margin-top: 2em;
 
         }
         #fotopersonal{
@@ -348,7 +348,7 @@ width: 400px;
         margin-left: 0.5em;
         margin: 1em;
         padding: 0.5em;
-        width: 15em;
+        width: 14em;
         font-size: 100px;
         border: #dddddd solid 2px;
         border-radius: 20px;
@@ -363,10 +363,13 @@ width: 400px;
        }
        .container{
              margin-left: 10em;
+             margin-top: 3em;
+
        }
        #misproyectos{
         font-size: 120px;
         margin-left: -2em;
+        
         
        }
        .card{
@@ -376,7 +379,7 @@ width: 400px;
        }
        .slider{
 
-        width: 400em;
+        width: 200em;
         margin-top: 60em;
        }
        .slide{
@@ -391,13 +394,13 @@ width: 400px;
 }
 #t{
 
-    width: 10em;
-    height: 20em;
+    width: 20em;
+    height: 10em;
     margin: 5em;
 }
 #css{
-     width: 10em;
-    height: 20em;
+     width: 20em;
+    height: 10em;
     margin: 5em;
 }
 #quiero{
@@ -415,7 +418,8 @@ width: 400px;
        button{
 
         height: 10em;
-        font-size: 100px;
+        font-size: 30px;
+        border-radius: 5px;
        }
        .blandas{
         margin-top: 800em;

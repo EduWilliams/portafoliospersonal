@@ -418,8 +418,11 @@ width: 400px;
        button{
 
         height: 10em;
-        font-size: 30px;
+        font-size: 15px;
         border-radius: 5px;
+       }
+       #acceder{
+        font-size: 30px;
        }
        .blandas{
         margin-top: 100em;

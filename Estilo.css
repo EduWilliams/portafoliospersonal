@@ -348,20 +348,24 @@ width: 400px;
         margin-left: 0.5em;
         margin: 1em;
         padding: 0.5em;
-        width: 13em;
+        width: 14em;
         font-size: 100px;
         border: #dddddd solid 2px;
         border-radius: 20px;
        }
 
+
        .container-slider{
-       margin-left: 10em;
+       
        justify-content: center;
        width: 200em;
 
        }
+       .container{
+             margin-left: 10em;
+       }
        #misproyectos{
-        font-size: 30px;
+        font-size: 120px;
         
        }
        .card{

@@ -412,6 +412,7 @@ width: 400px;
         margin-top: 10em;
         margin-left: 0em;
         width: 100%;
+        height: 150em;
         
        }
 
@@ -437,7 +438,7 @@ width: 400px;
        .formulario{
         margin-left: 0.2em;
 
-        height: 200em;
+       
        }
        label{
         margin-left: 0em;
